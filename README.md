@@ -14,7 +14,7 @@
 
 Sou estudante de **Bacharelado em Ciência e Tecnologia** na UFRN e do curso técnico de **Informática para Internet** no IMD/UFRN, com foco em desenvolvimento **Full Stack com JavaScript e TypeScript**.
 
-No meu trabalho atual, aplico automações e soluções técnicas para otimizar processos internos — o que me mantém sempre com um pé na prática enquanto evoluo nos estudos.
+Atualmente trabalho como **Técnico em Sistemas Embarcados Júnior na GNS Brasil**, onde atuo com configuração de rastreadores veiculares e aplico automações e soluções técnicas para otimizar processos internos.
 
 Gosto de construir coisas que funcionam de verdade: desde bots integrados com IA até parsers e sistemas web.
 
