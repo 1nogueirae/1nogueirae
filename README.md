@@ -14,7 +14,7 @@
 
 Sou estudante de **Bacharelado em Ciência e Tecnologia** na UFRN e do curso técnico de **Informática para Internet** no IMD/UFRN, com foco em desenvolvimento **Full Stack com JavaScript e TypeScript**.
 
-Atualmente trabalho como **Técnico em Sistemas Embarcados Júnior na GNS Brasil**, onde atuo com configuração de rastreadores veiculares e aplico automações e soluções técnicas para otimizar processos internos.
+Atualmente trabalho como **QA Developer no projeto SEBITO (IMD/UFRN)**, onde atuo com testes de software e automação de qualidade.
 
 Gosto de construir coisas que funcionam de verdade: desde bots integrados com IA até parsers e sistemas web.
 
@@ -58,6 +58,7 @@ Gosto de construir coisas que funcionam de verdade: desde bots integrados com IA
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
