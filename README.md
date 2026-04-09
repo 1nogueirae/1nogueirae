@@ -85,10 +85,11 @@ Aplicação full stack para gerenciamento de tarefas, desenvolvida como projeto 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=1nogueirae&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nogueirae&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
+  <img src="https://github.com/1nogueirae/1nogueirae/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img src="https://github.com/1nogueirae/1nogueirae/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="32%" />
+  <img src="https://github.com/1nogueirae/1nogueirae/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="32%" />
+  <img src="https://github.com/1nogueirae/1nogueirae/blob/main/profile-summary-card-output/github_dark/3-stats.svg" width="32%" />
+  <img src="https://github.com/1nogueirae/1nogueirae/blob/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="32%" />
 </div>
 
 ---
