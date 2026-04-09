@@ -85,6 +85,8 @@ Aplicação full stack para gerenciamento de tarefas, desenvolvida como projeto 
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=1nogueirae&theme=github-dark-blue&hide_border=true" />
+  <br/><br/>
   <img src="https://github.com/1nogueirae/1nogueirae/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
   <img src="https://github.com/1nogueirae/1nogueirae/blob/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="32%" />
   <img src="https://github.com/1nogueirae/1nogueirae/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="32%" />
