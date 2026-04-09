@@ -75,9 +75,9 @@ Parser web para protocolos de comunicação de rastreadores veiculares, com inte
 
 ---
 
-### 🏢 [ESIG — Desafio Técnico](https://github.com/1nogueirae/esig-desafio-tecnico)
-Sistema web corporativo para gestão de funcionários, desenvolvido como desafio técnico.
-`C#` `ASP.NET` `SQL Server`
+### ✅ [Duitflow](https://github.com/1nogueirae/Duitflow)
+Aplicação full stack para gerenciamento de tarefas, desenvolvida como projeto de estudo com foco em evolução prática e portfólio.
+`Node.js + Express` `Sequelize + SQLite` `EJS + Bootstrap`
 
 ---
 
