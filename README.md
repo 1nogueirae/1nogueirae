@@ -3,34 +3,32 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=140&section=header&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Oi%2C+eu+sou+o+Emanuel+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;JavaScript+%2F+TypeScript+enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Emanuel+%F0%9F%91%8B;Full+Stack+Developer" alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou estudante de **Bacharelado em Ciência e Tecnologia** na UFRN e do curso técnico de **Informática para Internet** no IMD/UFRN, com foco em desenvolvimento **Full Stack com JavaScript e TypeScript**.
+I am a **Bachelor's student in Science and Technology** at UFRN and a technical student in **Web Development** at IMD/UFRN, focusing on **Full Stack development with JavaScript and TypeScript**.
 
-Atualmente trabalho como **QA Developer no projeto SEBITO (IMD/UFRN)**, onde atuo com testes de software e automação de qualidade.
+Currently, I work as a **QA Developer in the SEBITO project (IMD/UFRN)**, focusing on software testing and quality automation.
 
-Gosto de construir coisas que funcionam de verdade: desde bots integrados com IA até parsers e sistemas web.
+I like building things that actually work: from AI-integrated bots to parsers and web systems.
 
-- 🌍 Natal, RN — Brasil
-- 🎯 Foco atual: JavaScript / TypeScript / Node.js
-- 📚 Sempre aprendendo algo novo
+- 🌍 Natal, RN — Brazil
 
 ---
 
-## 🎓 Formação
+## 🎓 Education
 
-| Instituição | Curso | Situação |
+| Institution | Course | Status |
 |---|---|---|
-| UFRN | Bacharelado em Ciência e Tecnologia | Em andamento (2028) |
-| IMD / UFRN | Técnico em Informática para Internet | Em andamento (2026) |
-| IFRN | Técnico em Eletrônica | Concluído ✅ (2024) |
+| UFRN | Bachelor in Science and Technology | In progress (2028) |
+| IMD / UFRN | Systems Analyst Technician (Informatics for the Internet) | In progress (2026) |
+| IFRN | Electronics Technician | Completed ✅ (2024) |
 
 ---
 
@@ -62,23 +60,23 @@ Gosto de construir coisas que funcionam de verdade: desde bots integrados com IA
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Featured Projects
 
 ### 🤖 [Francesca Liddy Bot](https://github.com/1nogueirae/francesca-liddy-bot)
-Bot para Telegram integrado com IA generativa para automação de respostas e fluxos conversacionais.
+Telegram bot integrated with generative AI for response automation and conversational workflows.
 `n8n` `OpenAI API` `Google Docs API` `Telegram Bot API`
 
 ---
 
-### 🔍 [Decodificador Visual](https://github.com/1nogueirae/decodificador-visual)
-Parser web para protocolos de comunicação de rastreadores veiculares, com interface visual para análise e decodificação de dados.
+### 🔍 [Visual Decoder](https://github.com/1nogueirae/decodificador-visual)
+Web parser for vehicle tracker communication protocols, featuring a visual interface for data analysis and decoding.
 `TypeScript` `HTML` `CSS`
 
 ---
 
 ### ✅ [Duitflow](https://github.com/1nogueirae/Duitflow)
-Aplicação full stack para gerenciamento de tarefas, desenvolvida como projeto de estudo com foco em evolução prática e portfólio.
-`Node.js + Express` `Sequelize + SQLite` `EJS + Bootstrap`
+Full-stack task management application developed as a study project, focusing on practical improvement and portfolio building.
+`Node.js + Express` `Sequelize + SQLite` `React + Vite`
 
 ---
 
@@ -96,7 +94,7 @@ Aplicação full stack para gerenciamento de tarefas, desenvolvida como projeto 
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
 <div align="center">
 
